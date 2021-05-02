@@ -6,3 +6,5 @@ Code for my youtube video called Facematch, where I used Face recognition model 
 - emojify.py used for hiding privacy of the people.
 
 Feel free to modify the script based on your usecase.
+
+Video link: https://youtu.be/ysiyUSXFYd0
